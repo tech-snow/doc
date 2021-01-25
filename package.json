@@ -1,0 +1,23 @@
+{
+  "name": "cookie-master-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev source",
+    "build": "vuepress build source"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chris-Kin/cookie-master-doc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chris-Kin/cookie-master-doc/issues"
+  },
+  "homepage": "https://github.com/Chris-Kin/cookie-master-doc#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.0"
+  }
+}
