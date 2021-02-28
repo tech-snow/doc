@@ -2,9 +2,9 @@
 
 ![](./img/copy.png)
 
-click the copy button, it's all you need to do!
+Click the copy button, it's all you need to do!
 
-And cookie-master will give you a feedback in right-bottom corner.
+And cookie master will give you a feedback in right-bottom corner.
 What's more, cookies in your clipboard is in standard data structure, like this:
 ```js
 [{

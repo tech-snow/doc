@@ -2,7 +2,7 @@
 
 ![](./img/import.png)
 
-It's a regular operation. Before clicking import button. make sure there is standrad structure cookies in your clipboard. Like this:
+It's a regular operation. Before clicking import button, make sure there is standrad structure cookies in your clipboard. Like this:
 
 ```js
 [{
@@ -31,4 +31,4 @@ It's a regular operation. Before clicking import button. make sure there is stan
 }]
 ```
 
-If there is incorrect data, cookie-master will throw an error.
+If there is incorrect data, cookie master will throw an error.

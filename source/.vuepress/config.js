@@ -6,7 +6,7 @@ module.exports = {
     themeConfig: {
         sidebar: [
           {
-            title: 'Copy All Cooie',
+            title: 'Copy All Cookie',
             path: '/copy',
             sidebarDepth: 0,
           },

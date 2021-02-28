@@ -2,11 +2,11 @@
 
 ### switch http-only property
 
-check or uncheck the Http-Only Column.
+Check or uncheck the Http-Only Column.
 
 ### switch secure property
 
-check or uncheck the Secure Column.
+Check or uncheck the Secure Column.
 
 ### copy this cookie
 

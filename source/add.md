@@ -2,7 +2,7 @@
 
 ![](./img/add.png)
 
-click the add button, there will be a adding page show for you.
+Click the add button, there will be a adding page show for you.
 
 It has only two form item: name and value. You can not click submit button until you input both of them.
 

@@ -2,7 +2,7 @@
 
 ![](./img/flat-copy.png)
 
-sometimes you only want to get the cookies string like document.cookie returns to you. Click the flat-copy button!
+Sometimes you only want to get the cookies string like document.cookie returns to you. Click the flat-copy button!
 
 Cookies in your clipboard like bellow:
 ```js
