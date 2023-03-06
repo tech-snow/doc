@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'Document',
-    description: 'Document',
+    title: '科研立项',
+    description: '文档数据库',
     base: '/cookie-master-doc/',
     dest: 'docs',
     themeConfig: {
