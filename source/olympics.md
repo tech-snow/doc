@@ -12,7 +12,7 @@
 | 项目年份 | 2021年 |
 | 项目经费（万元） | 暂无数据 |
 | 主要内容 | 暂无数据 |
-| 链接 | [国家社科基金项目数据库 (people.com.cn)](people.com.cn) |
+| 链接 | [国家社科基金项目数据库 (people.com.cn)](http://fz.people.com.cn/skygb/sk/index.php/index/seach?pznum=&xmtype=0&xktype=0&xmname=%E5%86%B0%E9%9B%AA&lxtime=0&xmleader=&zyzw=0&gzdw=&dwtype=0&szdq=0&ssxt=0&cgname=&cgxs=0&cglevel=0&jxdata=0&jxnum=&cbs=&cbdate=0&zz=&hj=) |
 
 ### 2. 体育强国建设背景下“后冬奥时代”我国冰雪运动多元化发展路径研究
 
