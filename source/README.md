@@ -1,7 +1,3 @@
-# Cookie Master Doc
+# 科研立项文档
 
-Cookie Master is very simple and easy to use.
-
-If you have any problem or suggestion, feel free to connect me `misuhoom@gmail.com`
-
-Or join us in [Discord!](https://discord.gg/YzgRzFcTeA)
+科技与冰雪运动相互支撑发展数据库

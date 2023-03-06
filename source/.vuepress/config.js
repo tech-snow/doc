@@ -1,34 +1,26 @@
 module.exports = {
-    title: 'Cookie Master Usage Document',
-    description: 'Cookie Master Usage Document',
+    title: 'Document',
+    description: 'Document',
     base: '/cookie-master-doc/',
     dest: 'docs',
     themeConfig: {
         sidebar: [
           {
-            title: 'Copy All Cookie',
-            path: '/copy',
+            title: '奥运普及',
+            path: '/olympics',
             sidebarDepth: 0,
           },
           {
-            title: 'Flat Copy',
-            path: '/flat-copy',
+            title: '场馆建设',
+            path: '/venue',
           },
           {
-            title: 'Clear All Cookie',
-            path: '/clear',
+            title: '高水平训练',
+            path: '/train',
           },
           {
-            title: 'Import Cookie From Clipboard',
-            path: '/import',
-          },
-          {
-            title: 'Add Cookie',
-            path: '/add',
-          },
-          {
-            title: 'Single Cookie Operate',
-            path: '/single-operate',
+            title: '赛事运营',
+            path: '/operate',
           },
         ],
     },
