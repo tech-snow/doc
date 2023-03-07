@@ -1,5 +1,5 @@
 module.exports = {
-    title: '科研立项',
+    title: '科技与冰雪运动相互支撑发展数据库（科技立项）',
     description: '文档数据库',
     base: '/cookie-master-doc/',
     dest: 'docs',
