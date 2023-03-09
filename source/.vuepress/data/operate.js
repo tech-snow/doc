@@ -180,7 +180,7 @@ export default [
         "link": "https://www.sohu.com/a/420939409_505583"
     },
     {
-        "title": "DASSYY-KY-007冬奥会首钢赛区数字化生态创意研究设计与示范",
+        "title": "DASSYY-KY-007 冬奥会首钢赛区数字化生态创意研究设计与示范",
         "info": [
             "主题",
             "冬奥赛事运营",
@@ -240,7 +240,7 @@ export default [
         "link": "https://kjt.hebei.gov.cn/www/xwzx15/hbkjdt64/218139/index.html"
     },
     {
-        "title": "DASSYY-KY-009冬奥会广播电视服务应用技术研究",
+        "title": "DASSYY-KY-009 冬奥会广播电视服务应用技术研究",
         "info": [
             "主题",
             "冬奥赛事运营",
@@ -510,7 +510,7 @@ export default [
         "link": "http://kw.beijing.gov.cn/art/2020/4/1/art_736_579040.html"
     },
     {
-        "title": "DASSYY-KY-018北京冬奥会“一个APP”关键技术研究及应用",
+        "title": "DASSYY-KY-018 北京冬奥会“一个APP”关键技术研究及应用",
         "info": [
             "主题",
             "冬奥赛事运营",
@@ -690,7 +690,7 @@ export default [
         "link": "http://cfcs.pku.edu.cn/news/239852.htm"
     },
     {
-        "title": "DASSYY-KY-024科技冬奥综合示范",
+        "title": "DASSYY-KY-024 科技冬奥综合示范",
         "info": [
             "主题",
             "冬奥赛事运营",
@@ -1109,7 +1109,7 @@ export default [
         "link": "http://beijing.qianlong.com/2017/0821/1959623_3.shtml"
     },
     {
-        "title": "DASSYY-KY-038北京冬季奥运会安保研究",
+        "title": "DASSYY-KY-038 北京冬季奥运会安保研究",
         "info": [
             "主题",
             "冬奥赛事运营",
