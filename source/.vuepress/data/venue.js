@@ -1350,7 +1350,7 @@ export default [
         "link": "http://www.most.gov.cn/dfkj/hb/zxdt/202105/t20210519_174741.html?searchword=%E4%BE%9B%E5%A5%A5%E9%A3%9F%E5%93%81%E7%A6%81%E9%99%90%E7%94%A8%E8%8D%AF%E7%89%A9%E6%AE%8B%E7%95%99%E9%AB%98%E9%80%9A%E9%87%8F%E6%A3%80%E6%B5%8B%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E5%8F%8A%E5%BA%94%E7%94%A8%E7%A4%BA%E8%8C%83&prepage=10&channelid=44374&sortfield=-DOCRELTIME&strKeyWords=&itime=0"
     },
     {
-        "title": "DACGJS-KY-046.冬奥会传染病防控技术研究及应用示范",
+        "title": "DACGJS-KY-046 冬奥会传染病防控技术研究及应用示范",
         "info": [
             "主题",
             "冬奥场馆建设",

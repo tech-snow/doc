@@ -1,3 +1,1 @@
-### 场馆建设
-
-todo
+<venue-comp />
