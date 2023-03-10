@@ -1,6 +1,6 @@
 <template>
     <div>
-        <section v-for="(item, i) in []" :key="item.title">
+        <section v-for="(item, i) in list" :key="item.title">
             <h3 :id="item.title">
                 <a :href="`#${item.title}`" class="header-anchor">#</a>
                 {{ i+1 }}. {{ item.title.split(' ')[1] }}
