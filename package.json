@@ -1,5 +1,5 @@
 {
-  "name": "cookie-master-doc",
+  "name": "doc",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chris-Kin/cookie-master-doc.git"
+    "url": "git+https://github.com/Chris-Kin/doc.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Chris-Kin/cookie-master-doc/issues"
+    "url": "https://github.com/Chris-Kin/doc/issues"
   },
-  "homepage": "https://github.com/Chris-Kin/cookie-master-doc#readme",
+  "homepage": "https://github.com/Chris-Kin/doc#readme",
   "devDependencies": {
     "vuepress": "^1.8.0"
   }
