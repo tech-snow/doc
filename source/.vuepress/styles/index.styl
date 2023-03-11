@@ -1,3 +1,28 @@
+body {
+    background: transparent!important;
+}
+.global-ui {
+    background-image: url(/grid.svg);
+    //background-image: url(//dub.sh/_static/grid.svg);
+    z-index: -1;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    opacity: .3;
+    filter: invert(1);
+}
+.global-ui::before {
+    background-image: radial-gradient(at 27% 37%,#3a8bfd 0,transparent 0),radial-gradient(at 97% 21%,#72fe7d 0,transparent 50%),radial-gradient(at 52% 99%,#fd3a4e 0,transparent 50%),radial-gradient(at 10% 29%,#855afc 0,transparent 50%),radial-gradient(at 97% 96%,#e4c795 0,transparent 50%),radial-gradient(at 33% 50%,#8ca8e8 0,transparent 50%),radial-gradient(at 79% 53%,#eea5ba 0,transparent 50%);
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    filter: blur(100px) saturate(150%);
+    top: 0px;
+    opacity: .15;
+}
+
 table {
     width: 100%;
     margin-bottom: 60px;
@@ -9,6 +34,9 @@ table td:nth-child(2) {
     width: calc(100% - 100px);
     word-break: break-all;
     word-break: break-word;
+}
+tbody {
+    background: #fff;
 }
 
 .navbar {
@@ -22,4 +50,7 @@ table td:nth-child(2) {
 }
 .site-name {
     color: white!important;
+}
+.sidebar {
+    //background-color: transparent!important;
 }

@@ -23,10 +23,11 @@ module.exports = {
             path: '/operate',
           },
         ],
+        smoothScroll: true,
+        activeHeaderLinks: true,
     },
     search: true,
     searchMaxSuggestions: 10,
-    smoothScroll: true,
     lastUpdated: 'Last Updated',
     markdown: {
       lineNumbers: true,

@@ -1,8 +1,8 @@
 <template>
     <div>
         <section v-for="(item, i) in list" :key="item.title">
-            <h3 :id="item.title">
-                <a :href="`#${item.title}`" class="header-anchor">#</a>
+            <h3 :id="i">
+                <a :href="`#${i}`" class="header-anchor">#</a>
                 {{ i+1 }}. {{ item.title.split(' ')[1] }}
             </h3>
             <table>
@@ -44,13 +44,13 @@
                     </tr>
                 </tbody>
             </table>
-            <hr style="margin-bottom: 60px">
+            <hr v-if="i !== (list.length - 1)" style="margin-bottom: 60px">
         </section>
     </div>
 </template>
 <script>
 import list from '../data/olympics.js';
-console.log(list);
+
 export default {
     data() {
         return {
@@ -58,7 +58,7 @@ export default {
         }
     },
     mounted () {
-        console.log('demo mounted');
+        // console.log('demo mounted');
     }
 }
 </script>
