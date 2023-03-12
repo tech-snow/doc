@@ -1,4 +1,4 @@
----
+<!-- ---
 home: true
 heroImage: /skiming.svg
 heroText: 科技与冰雪运动相互支撑发展数据库
@@ -16,4 +16,6 @@ features:
 - title: 赛事运营
   details: 副标题描述
 footer: null
----
+--- -->
+
+科技与冰雪运动相互支撑发展数据库
