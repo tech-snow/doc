@@ -54,8 +54,8 @@ export default {
     color: #3a5169;
 }
 .intro  p {
-    color: #4e6e8e;
-    padding: 0 0 1em 0;
+    color: #4e6e8e!important;
+    padding: 0 1em 0 0;
 }
 .intro .item {
     display: inline-block;
