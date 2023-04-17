@@ -66,3 +66,21 @@ tbody {
 .home .hero a.action-button {
     border-radius: 50px;
 }
+
+@keyframes skim {
+    0% {
+        transform: rotate(0);
+    }
+    20% {
+        transform: rotate(-30deg);
+    }
+    60% {
+        transform: rotate(-30deg);
+    }
+    80% {
+        transform: rotate(0);
+    }
+}
+.hero img {
+    animation: skim 18s cubic-bezier(0.23, 0.02, 0.78, 0.99) infinite;
+}
