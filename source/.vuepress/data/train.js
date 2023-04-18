@@ -145,9 +145,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "中华人民共和国科学技术部▪站内检索 (most.gov.cn)"
+            "www.qqhru.edu.cn/info/1142/15156.htm#:~:text=“高端冰刀研发”,进行的联合攻关。"
         ],
-        "link": "http://www.most.gov.cn/search/siteall/index.html?searchword=%25u9AD8%25u7AEF%25u51B0%25u5200%25u7814%25u53D1&channel=&group=%25u5168%25u7AD9"
+        "link": "http://www.qqhru.edu.cn/info/1142/15156.htm#:~:text=“高端冰刀研发”,进行的联合攻关。"
     },
     {
         "title": "GSPXL-KY-006 制冰机研发及应用示范",
@@ -265,9 +265,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://www.most.gov.cn/kjbgz/201811/t20181116_142785.html"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://www.most.gov.cn/kjbgz/201811/t20181116_142785.html"
     },
     {
         "title": "GSPXL-KY-010 穿戴式冰雪运动装备运动风险和效能评价关键技术平台研究",
@@ -295,9 +295,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://www.sport.gov.cn/btd/n5567/c973573/content.html"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://www.sport.gov.cn/btd/n5567/c973573/content.html"
     },
     {
         "title": "GSPXL-KY-011 冰雪运动装备公共检测关键技术及标准研究",
@@ -355,9 +355,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://cloud.tencent.com/developer/news/732962"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://cloud.tencent.com/developer/news/732962"
     },
     {
         "title": "GSPXL-KY-013 冬季运动装备研发",
@@ -415,9 +415,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://www.sciping.com/35357.html"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://www.sciping.com/35357.html"
     },
     {
         "title": "GSPXL-KY-015 多地域气候条件下高效智能造雪机研发及应用示范",
@@ -445,9 +445,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://www.sciping.com/35357.html"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://www.sciping.com/35357.html"
     },
     {
         "title": "GSPXL-KY-016 室外大中型压雪车研发及应用示范",
@@ -475,9 +475,9 @@ export default [
             "主要内容",
             "围绕室外大中型压雪车，旨在解决环境温度低、高程落差大、行驶工况复杂等条件下压雪车的高精准、高可靠性、环保等方面的科学问题，开展关键技术攻关，突破高效稳定驱动、作业精准控制、轻量化、可靠性设计等技术瓶颈，研制室外大中型压雪车关键部件与整机，使整体技术达到国际先进水平，以促进我国冰雪运动领域的科技进步，培养相关专业人才，为举办精彩、非凡、卓越的北京冬奥会/冬残奥会和我国冰雪运动的发展提供技术支撑。",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://www.sciping.com/35357.html"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://www.sciping.com/35357.html"
     },
     {
         "title": "GSPXL-KY-017 709",
@@ -985,9 +985,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "基于空气动力学分析的跳台滑雪空中飞行姿态研究-国家自然科学基金摘要查询-MedSci.cn"
+            "https://www.izaiwen.cn/pro/?psnname=&orgname=&prjno=11802068&sy=&ey=&st=&et=&keyword="
         ],
-        "link": "https://www.medsci.cn/sci/nsfc_show.do?id=bfc8804e00cf"
+        "link": "https://www.izaiwen.cn/pro/?psnname=&orgname=&prjno=11802068&sy=&ey=&st=&et=&keyword="
     },
     {
         "title": "GSPXL-KY-034 辽宁省雪上项目跨界选材研究",
@@ -1077,7 +1077,7 @@ export default [
             "链接",
             "https://service.most.gov.cn/u/cms/static/201808/22102428qquv.pdf"
         ],
-        "link": "https://www.medsci.cn/sci/nsfc_show.do?id=8058821832c2"
+        "link": "https://service.most.gov.cn/u/cms/static/201808/22102428qquv.pdf"
     },
     {
         "title": "GSPXL-KY-037 冬季项目运动员技能优化关键技术",
@@ -1671,8 +1671,8 @@ export default [
             "主要内容",
             "围绕室外大中型压雪车，旨在解决环境温度低、高程落差大、行驶工况复杂等条件下压雪车的高精准、高可靠性、环保等方面的科学问题，开展关键技术攻关，突破高效稳定驱动、作业精准控制、轻量化、可靠性设计等技术瓶颈，研制室外大中型压雪车关键部件与整机，使整体技术达到国际先进水平，以促进我国冰雪运动领域的科技进步，培养相关专业人才，为举办精彩、非凡、卓越的北京冬奥会/冬残奥会和我国冰雪运动的发展提供技术支撑。",
             "链接",
-            "国家重点研发计划“科技冬奥”专项 “室外大中型压雪车研发及应用示范”项目启动会顺利召开 (ustb.edu.cn)"
+            "me.ustb.edu.cn/keyandongtai/2022-03-31/1790.html"
         ],
-        "link": "http://me.ustb.edu.cn/xinwengonggao/xueshuhuodong/2020-12-04/1761.html"
+        "link": "http://me.ustb.edu.cn/keyandongtai/2022-03-31/1790.html"
     }
 ];

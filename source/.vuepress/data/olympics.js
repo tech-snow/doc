@@ -565,9 +565,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "W020201029593916243547.xlsx (live.com)"
+            "view.aspx(live.com)"
         ],
-        "link": "https://view.officeapps.live.com/op/view.aspx?src=http://www.gdpplgopss.gov.cn/tzgg/202010/W020201029593916243547.xlsx&wdOrigin=BROWSELINK"
+        "link": "https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Fwww.gdpplgopss.org.cn%2Fattachment%2F0%2F10%2F10454%2F608969.xlsx&wdOrigin=BROWSELINK"
     },
     {
         "title": "DAPJ-KY-020 北京冬奥会背景下贵州省滑雪体育旅游发展现状对策研究",
@@ -715,9 +715,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "我校3项课题获批“2020年度辽宁省社会科学规划基金项目”立项_学校新闻_新闻中心_大连财经学院_www.dlufe.edu.cn"
+            "shkxshzyhome.lnsgdb.com.cn"
         ],
-        "link": "http://www.dlufe.edu.cn/content/202011/9819.shtml"
+        "link": "http://shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2020/11/10/384042007649064896.shtml"
     },
     {
         "title": "DAPJ-KY-025 我国冰雪项目运动员空间能力优势特征及选材体系构建研究",
@@ -1947,7 +1947,7 @@ export default [
             "链接",
             "国家社科基金项目数据库 (people.com.cn)"
         ],
-        "link": "http://fz.people.com.cn/skygb/sk/index.php/index/seach?pznum=&xmtype=0&xktype=0&xmname=2022%E5%B9%B4%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E7%A4%BE%E4%BC%9A%E9%A3%8E%E9%99%A9%E9%A2%84%E8%AD%A6%E4%B8%8E%E9%98%B2%E8%8C%83%E7%AD%96%E7%95%A5&lxtime=0&xmleader=&zyzw=0&gzdw=&dwtype=0&szdq=0&ssxt=0&cgname=&cgxs=0&cglevel=0&jxdata=0&jxnum=&cbs=&cbdate=0&zz=&hj="
+        "link": "http://fz.people.com.cn/skygb/sk/index.php/index/seach?pznum=16BTY009&xmtype=0&xktype=0&xmname=&lxtime=0&xmleader=&zyzw=0&gzdw=&dwtype=0&szdq=0&ssxt=0&cgname=&cgxs=0&cglevel=0&jxdata=0&jxnum=&cbs=&cbdate=0&zz=&hj="
     },
     {
         "title": "DAPJ-KY-066 我国申办冬季奥运会战略目标与滑雪产业升级需求",
@@ -1977,7 +1977,7 @@ export default [
             "链接",
             "国家社科基金项目数据库 (people.com.cn)"
         ],
-        "link": "http://fz.people.com.cn/skygb/sk/index.php/index/seach?pznum=&xmtype=0&xktype=0&xmname=%E6%88%91%E5%9B%BD%E7%94%B3%E5%8A%9E%E5%86%AC%E5%AD%A3%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%88%98%E7%95%A5%E7%9B%AE%E6%A0%87%E4%B8%8E%E6%BB%91%E9%9B%AA%E4%BA%A7%E4%B8%9A%E5%8D%87%E7%BA%A7%E9%9C%80%E6%B1%82&lxtime=0&xmleader=&zyzw=0&gzdw=&dwtype=0&szdq=0&ssxt=0&cgname=&cgxs=0&cglevel=0&jxdata=0&jxnum=&cbs=&cbdate=0&zz=&hj="
+        "link": "http://fz.people.com.cn/skygb/sk/index.php/index/seach?pznum=15BTY040&xmtype=0&xktype=0&xmname=&lxtime=0&xmleader=&zyzw=0&gzdw=&dwtype=0&szdq=0&ssxt=0&cgname=&cgxs=0&cglevel=0&jxdata=0&jxnum=&cbs=&cbdate=0&zz=&hj="
     },
     {
         "title": "DAPJ-KY-067 冬奥会文化传播与国家形象建构研究",
@@ -2007,15 +2007,15 @@ export default [
             "链接",
             "国家社科基金项目数据库 (people.com.cn)"
         ],
-        "link": "http://fz.people.com.cn/skygb/sk/index.php/index/seach?pznum=&xmtype=0&xktype=0&xmname=%E5%86%AC%E5%A5%A5%E4%BC%9A%E6%96%87%E5%8C%96%E4%BC%A0%E6%92%AD%E4%B8%8E%E5%9B%BD%E5%AE%B6%E5%BD%A2%E8%B1%A1%E5%BB%BA%E6%9E%84%E7%A0%94%E7%A9%B6&lxtime=0&xmleader=&zyzw=0&gzdw=&dwtype=0&szdq=0&ssxt=0&cgname=&cgxs=0&cglevel=0&jxdata=0&jxnum=&cbs=&cbdate=0&zz=&hj="
+        "link": "http://fz.people.com.cn/skygb/sk/index.php/index/seach?pznum=15BTY022&xmtype=0&xktype=0&xmname=&lxtime=0&xmleader=&zyzw=0&gzdw=&dwtype=0&szdq=0&ssxt=0&cgname=&cgxs=0&cglevel=0&jxdata=0&jxnum=&cbs=&cbdate=0&zz=&hj="
     },
     {
-        "title": "DAPJ-KY-068 建国以来北京举办国际大型体育赛事的历史经验及对2022年冬奥会筹办的启示",
+        "title": "DAPJ-KY-068 2022年冬奥会借鉴往届冬奥会成功经验研究",
         "info": [
             "主题",
             "冬奥普及",
             "项目名称",
-            "建国以来北京举办国际大型体育赛事的历史经验及对2022年冬奥会筹办的启示",
+            "2022年冬奥会借鉴往届冬奥会成功经验研究",
             "项目编号",
             "暂无数据",
             "项目来源",
@@ -2023,29 +2023,29 @@ export default [
             "项目类型",
             "社会科学基金",
             "学科分类",
-            "暂无数据",
+            "艺术·体育学",
             "项目负责人",
-            "暂无数据",
+            "曹淼孙",
             "依托单位",
-            "暂无数据",
+            "首都体育学院",
             "项目年份",
-            "暂无数据",
+            "2018年",
             "项目经费（万元）",
             "暂无数据",
             "主要内容",
             "暂无数据",
             "链接",
-            "one15958391331.docx (live.com)"
+            "p-2255697852(docin.com)"
         ],
-        "link": "https://view.officeapps.live.com/op/view.aspx?src=http://download.people.com.cn/dangwang/one15958391331.docx&wdOrigin=BROWSELINK"
+        "link": "https://www.docin.com/p-2255697852.html"
     },
     {
-        "title": "DAPJ-KY-069 2022年北京冬奥会社会参与研究",
+        "title": "DAPJ-KY-069 2022年北京冬奥会奥林匹克教育理念与干预研究",
         "info": [
             "主题",
             "冬奥普及",
             "项目名称",
-            "2022年北京冬奥会社会参与研究",
+            "2022年北京冬奥会奥林匹克教育理念与干预研究",
             "项目编号",
             "暂无数据",
             "项目来源",
@@ -2053,21 +2053,21 @@ export default [
             "项目类型",
             "社会科学基金",
             "学科分类",
-            "暂无数据",
+            "艺术·体育学",
             "项目负责人",
-            "暂无数据",
+            "孙湛宁",
             "依托单位",
-            "暂无数据",
+            "北京体育大学",
             "项目年份",
-            "暂无数据",
+            "2018年",
             "项目经费（万元）",
             "暂无数据",
             "主要内容",
             "暂无数据",
             "链接",
-            "北京社科网 (bjsk.org.cn)"
+            "p-2255697852 (docin.com)"
         ],
-        "link": "http://www.bjsk.org.cn/"
+        "link": "https://www.docin.com/p-2255697852.html"
     },
     {
         "title": "DAPJ-KY-070 基于北京冬奥会申办情境下的体育环境伦理与环境教育研究",
@@ -2112,20 +2112,21 @@ export default [
             "项目类型",
             "青年项目",
             "学科分类",
-            "暂无数据",
+            "体育学",
             "项目负责人",
-            "暂无数据",
+            "郭鹏",
             "依托单位",
-            "暂无数据",
+            "沈阳体育学院",
             "项目年份",
-            "暂无数据",
+            "2020年",
             "项目经费（万元）",
             "暂无数据",
             "主要内容",
             "暂无数据",
             "链接",
-            " "
-        ]
+            "shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2020/11/10/384042007649064896.shtml"
+        ],
+        "link": "http://shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2020/11/10/384042007649064896.shtml"
     },
     {
         "title": "DAPJ-KY-072 新冬奥周期背景下我省竞技带动大众冰雪体育产业联动发展研究",
@@ -2141,20 +2142,21 @@ export default [
             "项目类型",
             "青年项目",
             "学科分类",
-            "暂无数据",
+            "体育学",
             "项目负责人",
-            "暂无数据",
+            "林正根",
             "依托单位",
-            "暂无数据",
+            "沈阳体育学院",
             "项目年份",
-            "暂无数据",
+            "2020年",
             "项目经费（万元）",
             "暂无数据",
             "主要内容",
             "暂无数据",
             "链接",
-            " "
-        ]
+            "shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2020/11/10/384042007649064896.shtml"
+        ],
+        "link": "http://shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2020/11/10/384042007649064896.shtml"
     },
     {
         "title": "DAPJ-KY-073 2022冬奥会背景下辽宁大众冰雪运动项目的开发路径与推广策略研究",
@@ -2170,20 +2172,21 @@ export default [
             "项目类型",
             "一般项目",
             "学科分类",
-            "暂无数据",
+            "体育学",
             "项目负责人",
-            "暂无数据",
+            "贺佃忱",
             "依托单位",
-            "暂无数据",
+            "沈阳师范大学",
             "项目年份",
-            "暂无数据",
+            "2020年",
             "项目经费（万元）",
             "暂无数据",
             "主要内容",
             "暂无数据",
             "链接",
-            " "
-        ]
+            "shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2020/11/10/384042007649064896.shtml"
+        ],
+        link: 'shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2020/11/10/384042007649064896.shtml'
     },
     {
         "title": "DAPJ-KY-074 后冬奥时期青少年冰雪运动体能训练策略科普推广与实施",

@@ -85,7 +85,7 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "北京市科学技术委员会、中关村科技园区管理委员会 通知公告 2021年度市科委第二季度项目(课题)立项公开清单 (beijing.gov.cn)"
+            "kw.beijing.gov.cn/art/2021/7/16/art_736_608414.html"
         ],
         "link": "http://kw.beijing.gov.cn/art/2021/7/16/art_736_608414.html"
     },
@@ -165,7 +165,7 @@ export default [
             "学科分类",
             "暂无数据",
             "项目负责人",
-            "暂无数据",
+            "钟茂华",
             "依托单位",
             "清华大学",
             "项目年份",
@@ -175,9 +175,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://www.tsinghua.edu.cn/info/1177/91118.htm"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://www.tsinghua.edu.cn/info/1177/91118.htm"
     },
     {
         "title": "DASSYY-KY-007 冬奥会首钢赛区数字化生态创意研究设计与示范",
@@ -205,9 +205,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://www.tsinghua.edu.cn/info/1177/91118.htm"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://www.tsinghua.edu.cn/info/1177/91118.htm"
     },
     {
         "title": "DASSYY-KY-008 冬奥会智慧高速公路关键技术研究",
@@ -235,7 +235,7 @@ export default [
             "主要内容",
             "打造在云控平台管控一体化下的车路协同、自动驾驶及安全舒适的隧道行车光环境，为高效、安全的转场通行提供有力支撑。",
             "链接",
-            "2020年度河北省科技冬奥专项“冬奥会智慧高速公路关键技术研究”项目论证会在石家庄召开 (hebei.gov.cn)"
+            "https://kjt.hebei.gov.cn/www/xwzx15/hbkjdt64/218139/index.html"
         ],
         "link": "https://kjt.hebei.gov.cn/www/xwzx15/hbkjdt64/218139/index.html"
     },
@@ -864,9 +864,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2022年冬奥会环境风险和可持续管理对策研究-国家自然科学基金摘要查询-MedSci.cn"
+            "https://www.izaiwen.cn/detail.NTAxMjg0.html"
         ],
-        "link": "https://www.medsci.cn/sci/nsfc_show.do?id=8058821832c2"
+        "link": "https://www.izaiwen.cn/detail.NTAxMjg0.html"
     },
     {
         "title": "DASSYY-KY-030 冬奥会赛事争议仲裁研究",
@@ -894,9 +894,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "国家社科基金项目数据库 (people.com.cn)"
+            "fz.people.com.cn/skygb/sk/index.php/index/seach?pznum=18BTY069&xmtype=0&xktype=0&xmname=&lxtime=0&xmleader=&zyzw=0&gzdw=&dwtype=0&szdq=0&ssxt=0&cgname=&cgxs=0&cglevel=0&jxdata=0&jxnum=&cbs=&cbdate=0&zz=&hj="
         ],
-        "link": "http://fz.people.com.cn/skygb/sk/index.php/index/seach/?pznum=&xmtype=0&xktype=0&xmname=%E5%86%AC%E5%A5%A5&lxtime=0&xmleader=&zyzw=0&gzdw=&dwtype=0&szdq=0&ssxt=0&cgname=&cgxs=0&cglevel=0&jxdata=0&jxnum=&cbs=&cbdate=0&zz=&hj="
+        "link": "http://fz.people.com.cn/skygb/sk/index.php/index/seach?pznum=18BTY069&xmtype=0&xktype=0&xmname=&lxtime=0&xmleader=&zyzw=0&gzdw=&dwtype=0&szdq=0&ssxt=0&cgname=&cgxs=0&cglevel=0&jxdata=0&jxnum=&cbs=&cbdate=0&zz=&hj="
     },
     {
         "title": "DASSYY-KY-031 三网融合下北京冬奥会赛事转播的法律保护研究",

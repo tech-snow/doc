@@ -85,9 +85,9 @@ export default [
             "主要内容",
             "    开发、试验、应用，实现众多高铁智能化服务，为保障赛事顺利举办、彰显中国文化科技、打造中国高铁名片贡献力量。京张高铁智能化服务主要包括三大需求：旅客服务，运营安全保障，奥运文化融合。",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
     },
     {
         "title": "DACGJS-KY-004 国家体育场（鸟巢）智能场馆关键技术研究",
@@ -115,9 +115,9 @@ export default [
             "主要内容",
             "针对重大赛事活动与日常运营智慧管理服务和安全组织需求，研究涵盖物、人、活动等关键体育场馆要素的智能场馆镜像数字模拟与构建方法，研究构建基于多维数据的通用数据分析引擎，研究实现鸟巢数字孪生平台；研究符合冬奥会开闭幕式及赛后运维用能特点的能源精细化管理模型，研究主要能耗设备用能状态、波动特征分析和运行参数等的优化方法，研发能源、安全、环境物联网感知与动态响应的全周期运维保障系统；研究国家体育场（鸟巢）综合环境与承载能力评估模型，建立重点区域环境质量管理评价方法，研制配套设备与环境质量管理评价系统；研究依托三维模型聚合摄像头视频流和物联网信息的虚拟现实融合系统和智能场馆管理系统。",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
     },
     {
         "title": "DACGJS-KY-005 国家游泳中心冬-夏运动场景转换技术及应用",
@@ -145,9 +145,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
     },
     {
         "title": "DACGJS-KY-006 赛事用雪保障关键技术研究与应用示范",
@@ -175,9 +175,9 @@ export default [
             "主要内容",
             "通过组建以科研院所、冰雪高校、滑雪场和企业为主体的联合团队，针对滑雪场造雪、储雪、雪质保障和赛道维护等，研发适合中国冰雪产业发展的一体化解决方案，一方面为本次冬奥会雪上项目提供技术保障，另一方面旨在推动我国的雪务工作与国际全面接轨，并服务于后奥运时代我国冰雪产业“南展西扩东进”的战略目标。 ",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
     },
     {
         "title": "DACGJS-KY-007 冬奥会全局全过程态势感知和运行指挥保障技术",
@@ -325,9 +325,9 @@ export default [
             "主要内容",
             "将重点关注于精准气象预报服务，通过系统技术研发和产品应用，建立冬奥智慧气象服务系统，解决制约冬奥气象保障的核心科技问题，满足奥组委“一项一策”冬奥气象保障需求。力争到2022年冬奥会举办时，用最先进的气象科技手段、最精准的气象预报，为赛事运行提供最好的气象保障服务。",
             "链接",
-            "http://www.most.gov.cn/ztzl/kjda2022/gzjz/201812/t20181229_144450.html"
+            "https://service.most.gov.cn/u/cms/static/201808/22102428qquv.pdf"
         ],
-        "link": "https://www.medsci.cn/sci/nsfc_show.do?id=8058821832c2"
+        "link": "https://service.most.gov.cn/u/cms/static/201808/22102428qquv.pdf"
     },
     {
         "title": "DACGJS-KY-012 人工剖面赛道类场馆新型建造、维护与运营技术",
@@ -355,9 +355,9 @@ export default [
             "主要内容",
             "为北京2022年冬奥会和冬残奥会中的人工剖面赛道设计建设和运维提供技术支撑,相关成果可弥补国内相关场馆建设的技术空白,并为国内其他雪上项目场馆建设提供指导和示范。",
             "链接",
-            "http://www.most.gov.cn/ztzl/kjda2022/gzjz/201812/t20181229_144447.html"
+            "https://service.most.gov.cn/u/cms/static/201808/22102428qquv.pdf"
         ],
-        "link": "https://www.medsci.cn/sci/nsfc_show.do?id=8058821832c2"
+        "link": "https://service.most.gov.cn/u/cms/static/201808/22102428qquv.pdf"
     },
     {
         "title": "DACGJS-KY-013 复杂山地条件下冬奥雪上场馆设计建造运维关键技术",
@@ -385,9 +385,9 @@ export default [
             "主要内容",
             "聚焦复杂山地条件下冬奥雪上场馆的特点，开展建筑信息模型（BIM）、竞赛场馆设计施工、非竞赛场馆及附属设施设计、项目场馆及附属设施全生命期综合利用、交通基础设施设计施工运营等关键技术研发，并开展工程示范，为保障冬奥会举办提供科技支撑。",
             "链接",
-            "http://www.most.gov.cn/ztzl/kjda2022/gzjz/201812/t20181229_144456.html"
+            "https://service.most.gov.cn/u/cms/static/201808/22102428qquv.pdf"
         ],
-        "link": "https://www.medsci.cn/sci/nsfc_show.do?id=8058821832c2"
+        "link": "https://service.most.gov.cn/u/cms/static/201808/22102428qquv.pdf"
     },
     {
         "title": "DACGJS-KY-014 冬奥会崇礼赛区赛事专项气象预报关键技术",
@@ -445,9 +445,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "我校参加“科技冬奥”国家重点研发专项“无障碍、便捷智慧生活服务体系构建技术与示范”项目启动暨实施方案论证会——北京服装学院本科招生网 (bift.edu.cn)"
+            "https://www.bift.edu.cn/xwgg/bfxw/82554.htm"
         ],
-        "link": "https://bkzs.bift.edu.cn/bfxw/82554.htm"
+        "link": "https://www.bift.edu.cn/xwgg/bfxw/82554.htm"
     },
     {
         "title": "DACGJS-KY-016 我国体育场馆智慧化转型升级的现实基础、动力机制和实践模式研究",
@@ -535,9 +535,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
     },
     {
         "title": "DACGJS-KY-019 冬奥会食品供应链有害因子智能化快筛技术和预警技术",
@@ -565,9 +565,9 @@ export default [
             "主要内容",
             "以北京冬奥会食品供应链有害因子快速筛查与风险管控为目标，以食品安全风险分析和数据治理为主线，以快筛技术智能化集成为手段，以智慧服务与智能交互为纽带，推动食品供应链有害因子的系统感知、靶向识别、精准确证，提高食品安全风险预测预警能力。",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
     },
     {
         "title": "DACGJS-KY-020 冬奥会智慧医疗保障关键技术",
@@ -595,9 +595,9 @@ export default [
             "主要内容",
             "针对冬奥北京市区、延庆、张家口赛区一体化医疗保障需求，研究区域内医疗资源共享技术；研究覆盖不同区域及不同级别医疗机构的一体化诊疗信息平台；研究雪上运动航空医学急救保障关键技术以及急救志愿者心肺复苏质量控制与培训系统；研究基于深度学习技术的运动损伤（包括：脑、颌面、骨关节、内脏和眼等多部位复杂损伤）的辅助诊疗系统；研究覆盖冬奥会3赛区的智能医疗机器人、机械手等智能医疗器械的远程手术操作系统。上述成果在冬奥会测试赛医疗保障中应用，在 2022 年冬奥会期间实际应用。",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
     },
     {
         "title": "DACGJS-KY-021 冬奥关键区特种设备安全运行保障技术",
@@ -775,9 +775,9 @@ export default [
             "主要内容",
             "项目主要研究北京冬奥会重大活动和城市运行的时空变化特点，建立与北京冬奥会相关的自然灾害、事故灾难、公共卫生和社会安全等四大类的风险评估模型，实现多灾种、多尺度综合性风险评估，建立针对性的风险数据采集、集成和更新技术方案，研发北京冬奥会综合评估与风险管理一张图系统，制修订相关技术和管理标准，并在北京市、张家口市示范应用，为北京冬奥会的公共安全保障提供技术支撑。",
             "链接",
-            "http://www.most.gov.cn/ztzl/kjda2022/gzjz/201812/t20181229_144445.html"
+            "https://service.most.gov.cn/u/cms/static/201808/22102428qquv.pdf"
         ],
-        "link": "https://www.medsci.cn/sci/nsfc_show.do?id=8058821832c2"
+        "link": "https://service.most.gov.cn/u/cms/static/201808/22102428qquv.pdf"
     },
     {
         "title": "DACGJS-KY-027 冬奥会运动创伤防治和临床诊疗安全保障技术体系研发",
@@ -805,9 +805,9 @@ export default [
             "主要内容",
             "该项目针对冬奥会比赛项目中常见及严重运动创伤的预防、急救、诊疗和康复策略这一重大的基础和应用性关键科学问题，开展系列研究，建立示范应用一体化平台；整合冬季运动临床诊疗大数据采集分析系统，建立包括延庆赛区和张家口赛区在内的全国远程运动创伤诊治中心，形成完善的医疗联合体，为冬奥会提供高科技、智能化医疗保障，并服务于全国的冬季运动。该项目对于推进京津冀一体化协同发展将发挥积极作用。",
             "链接",
-            "http://www.most.gov.cn/ztzl/lhzt/lhzt2019/jjkjlhzt2019/201902/t20190227_145293.html"
+            "https://service.most.gov.cn/u/cms/static/201808/22102428qquv.pdf"
         ],
-        "link": "https://www.medsci.cn/sci/nsfc_show.do?id=8058821832c2"
+        "link": "https://service.most.gov.cn/u/cms/static/201808/22102428qquv.pdf"
     },
     {
         "title": "DACGJS-KY-028 智慧冬奥安保集成与应用示范",
@@ -1015,9 +1015,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2019年“张家口市科技冬奥技术集成应用与综合示范”项目实施情况暨2020年专题实施方案调度会召开-张家口市人民政府 (zjk.gov.cn)"
+            "https://www.zjk.gov.cn/content/gzbs/24945.html"
         ],
-        "link": "http://www.zjk.gov.cn/content/2020/24945.html"
+        "link": "https://www.zjk.gov.cn/content/gzbs/24945.html"
     },
     {
         "title": "DACGJS-KY-035 面向延庆奥运小镇的绿色智慧技术研究和集成示范",
@@ -1045,9 +1045,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
     },
     {
         "title": "DACGJS-KY-036 “氢能出行”关键技术研发和应用示范",
@@ -1075,9 +1075,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
     },
     {
         "title": "DACGJS-KY-037 冬奥赛区100％清洁电力高可靠供应关键技术研究及示",
@@ -1105,9 +1105,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
     },
     {
         "title": "DACGJS-KY-038 冬景植物定向培育及场馆外围风沙治理技术集成研究与示范",
@@ -1135,9 +1135,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "国家重点研发计划“科技冬奥”重点专项2020年度指南拟立项项目公示清单_管理 (sohu.com)"
+            "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
         ],
-        "link": "https://www.sohu.com/a/420939409_505583"
+        "link": "https://service.most.gov.cn/u/cms/static/202009/241713261bip.pdf"
     },
     {
         "title": "DACGJS-KY-039 面向冬奥的高效、智能车联网技术研究及示范",
@@ -1230,12 +1230,12 @@ export default [
         "link": "http://www.olympjoy.com/nd.jsp?id=2048"
     },
     {
-        "title": "DACGJS-KY-042 冰雪产业技术创新",
+        "title": "DACGJS-KY-042 古杨树场馆群冬奥会赛场水资源综合利用",
         "info": [
             "主题",
             "冬奥场馆建设",
             "项目名称",
-            "冰雪产业技术创新",
+            "古杨树场馆群冬奥会赛场水资源综合利用",
             "项目编号",
             "4004040",
             "项目来源",
@@ -1247,17 +1247,17 @@ export default [
             "项目负责人",
             "暂无数据",
             "依托单位",
-            "暂无数据",
+            "张家口奥体建设开发有限公司",
             "项目年份",
-            "2019年",
+            "2020年",
             "项目经费（万元）",
             "暂无数据",
             "主要内容",
             "暂无数据",
             "链接",
-            "张家口市科学技术局 (zjk.gov.cn)"
+            "zjj.zjk.gov.cn/single/169/44169.html"
         ],
-        "link": "http://www.zjk.gov.cn/kxjsj/search.jsp?pn=1&keywords=2019%E7%AB%8B%E9%A1%B9"
+        "link": "http://zjj.zjk.gov.cn/single/169/44169.html"
     },
     {
         "title": "DACGJS-KY-043 云顶滑雪场指挥运营管理系统开发与应用示范",
@@ -1315,9 +1315,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "冬奥会张家口赛区国家跳台滑雪中心设计建设新技术揭秘_【快资讯】 (360kuai.com)"
+            "www.cies.ac.cn/art/2022/11/15/art_4442_338698.html"
         ],
-        "link": "https://www.360kuai.com/pc/9a42d8b313893a5d2?cota=4&kuai_so=1&tj_url=so_rec&sign=360_57c3bbd1&refer_scene=so_1"
+        "link": "http://www.cies.ac.cn/art/2022/11/15/art_4442_338698.html"
     },
     {
         "title": "DACGJS-KY-045 供奥食品禁限用药物残留高通量检测技术研究及应用示范",
@@ -1465,9 +1465,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "基于城市应急避难目标的体育场馆更新的模式语言研究-国家自然科学基金摘要查询-MedSci.cn"
+            "https://www.izaiwen.cn/pro/?psnname=&orgname=&prjno=51708284&sy=&ey=&st=&et=&keyword="
         ],
-        "link": "https://www.medsci.cn/sci/nsfc_show.do?id=1a52e0270096"
+        "link": "https://www.izaiwen.cn/pro/?psnname=&orgname=&prjno=51708284&sy=&ey=&st=&et=&keyword="
     },
     {
         "title": "DACGJS-KY-050 基于多源数据精化冰雪密度及冰盖质量变化的研究",
@@ -1495,9 +1495,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "基于多源数据精化冰雪密度及冰盖质量变化的研究-国家自然科学基金摘要查询-MedSci.cn"
+            "https://www.izaiwen.cn/pro/?psnname=&orgname=&prjno=41804014&sy=&ey=&st=&et=&keyword="
         ],
-        "link": "https://www.medsci.cn/sci/nsfc_show.do?id=acb1e9372007"
+        "link": "https://www.izaiwen.cn/pro/?psnname=&orgname=&prjno=41804014&sy=&ey=&st=&et=&keyword="
     },
     {
         "title": "DACGJS-KY-051 基于性能模拟与评价的寒地体育场馆气候适应性设计与关键技术研究",
@@ -1525,9 +1525,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "基于性能模拟与评价的寒地体育场馆气候适应性设计与关键技术研究-国家自然科学基金摘要查询-MedSci.cn"
+            "https://www.izaiwen.cn/pro/?psnname=&orgname=&prjno=51678177&sy=&ey=&st=&et=&keyword="
         ],
-        "link": "https://www.medsci.cn/sci/nsfc_show.do?id=537149e559b8"
+        "link": "https://www.izaiwen.cn/pro/?psnname=&orgname=&prjno=51678177&sy=&ey=&st=&et=&keyword="
     },
     {
         "title": "DACGJS-KY-052 气候变化对中国人工造雪依赖型室外滑雪场的影响研究",
@@ -1555,9 +1555,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "气候变化对中国人工造雪依赖型室外滑雪场的影响研究-国家自然科学基金摘要查询-MedSci.cn"
+            "https://www.izaiwen.cn/pro/?psnname=&orgname=&prjno=42001255&sy=&ey=&st=&et=&keyword="
         ],
-        "link": "https://www.medsci.cn/sci/nsfc_show.do?id=dbcd9e8150e6"
+        "link": "https://www.izaiwen.cn/pro/?psnname=&orgname=&prjno=42001255&sy=&ey=&st=&et=&keyword="
     },
     {
         "title": "DACGJS-KY-053 滑冰场用跨临界/亚临界CO2压缩循环综合冷热源系统的基础问题研究",
