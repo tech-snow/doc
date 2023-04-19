@@ -1255,9 +1255,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "zjj.zjk.gov.cn/single/169/44169.html"
+            "http://kjj.zjk.gov.cn/single/169/44169.html"
         ],
-        "link": "http://zjj.zjk.gov.cn/single/169/44169.html"
+        "link": "http://kjj.zjk.gov.cn/single/169/44169.html"
     },
     {
         "title": "DACGJS-KY-043 云顶滑雪场指挥运营管理系统开发与应用示范",
