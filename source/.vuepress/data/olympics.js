@@ -985,9 +985,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "<A1BEB6A8B8E5A1BFB8BDBCFE312D34A3BAB4F2D3A1D3C333323935A3A830313239D1A7BFC6CBB3D0F2B5F7D5FBA3A92E786C7378> (sinoss.net)"
+            "http://www.moe.gov.cn/s78/A13/tongzhi/201903/t20190315_373644.html"
         ],
-        "link": "https://www.sinoss.net/uploadfile/2019/0129/01.pdf"
+        "link": "http://www.moe.gov.cn/s78/A13/tongzhi/201903/t20190315_373644.html"
     },
     {
         "title": "DAPJ-KY-034 北京冬奥会促进区域体育协同发展的效应测度及优化机制",
@@ -1075,9 +1075,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2018年辽宁省社科规划基金项目 - 百度文库 (baidu.com)"
+            "http://shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2018/07/16/384033158959469844.shtml"
         ],
-        "link": "https://wenku.baidu.com/view/326498ffd1d233d4b14e852458fb770bf68a3b36.html"
+        "link": "http://shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2018/07/16/384033158959469844.shtml"
     },
     {
         "title": "DAPJ-KY-037 辽宁省大众滑雪场发展动力机制研究",
@@ -1105,9 +1105,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2018年辽宁省社科规划基金项目 - 百度文库 (baidu.com)"
+            "http://shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2018/07/16/384033158959469844.shtml"
         ],
-        "link": "https://wenku.baidu.com/view/326498ffd1d233d4b14e852458fb770bf68a3b36.html"
+        "link": "http://shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2018/07/16/384033158959469844.shtml"
     },
     {
         "title": "DAPJ-KY-038 供给侧视域下辽宁省大众滑雪运动推广研究",
@@ -1135,9 +1135,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2018年辽宁省社科规划基金项目 - 百度文库 (baidu.com)"
+            "http://shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2018/07/16/384033158959469844.shtml"
         ],
-        "link": "https://wenku.baidu.com/view/326498ffd1d233d4b14e852458fb770bf68a3b36.html"
+        "link": "http://shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2018/07/16/384033158959469844.shtml"
     },
     {
         "title": "DAPJ-KY-039 辽宁省冰雪运动小镇竞争力评价体系构建与提升策略研究",
@@ -1165,9 +1165,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2018年辽宁省社科规划基金项目 - 百度文库 (baidu.com)"
+            "http://shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2018/07/16/384033158959469844.shtml"
         ],
-        "link": "https://wenku.baidu.com/view/326498ffd1d233d4b14e852458fb770bf68a3b36.html"
+        "link": "http://shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2018/07/16/384033158959469844.shtml"
     },
     {
         "title": "DAPJ-KY-040 基于冬奥契机的辽宁冰雪体育公共价值实现研究",
@@ -1195,9 +1195,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2018年辽宁省社科规划基金项目 - 百度文库 (baidu.com)"
+            "http://shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2018/07/16/384033158959469844.shtml"
         ],
-        "link": "https://wenku.baidu.com/view/326498ffd1d233d4b14e852458fb770bf68a3b36.html"
+        "link": "http://shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2018/07/16/384033158959469844.shtml"
     },
     {
         "title": "DAPJ-KY-041 东北老工业基地振兴战略下辽宁冰雪运动产业共同体模式构建研究",
@@ -1225,9 +1225,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2018年辽宁省社科规划基金项目 - 百度文库 (baidu.com)"
+            "http://shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2018/07/16/384033158959469844.shtml"
         ],
-        "link": "https://wenku.baidu.com/view/326498ffd1d233d4b14e852458fb770bf68a3b36.html"
+        "link": "http://shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2018/07/16/384033158959469844.shtml"
     },
     {
         "title": "DAPJ-KY-042 冬奥会背景下辽宁冰雪运动项目发展策略研究",
@@ -1255,9 +1255,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2018年辽宁省社科规划基金项目 - 百度文库 (baidu.com)"
+            "http://shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2018/07/16/384033158959469844.shtml"
         ],
-        "link": "https://wenku.baidu.com/view/326498ffd1d233d4b14e852458fb770bf68a3b36.html"
+        "link": "http://shkxshzyhome.lnsgdb.com.cn/web/shkxshzyhome/shkxtzgg/2018/07/16/384033158959469844.shtml"
     },
     {
         "title": "DAPJ-KY-043 北京冬奥会推动青少年冰球运动发展研究",
@@ -1285,9 +1285,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2018年北京市社会科学基金资助项目 - 豆丁网 (docin.com)"
+            "https://kjc.bsu.edu.cn/xwjb/34a5682f82724454a2d4a8a970bd5a44.htm"
         ],
-        "link": "https://www.docin.com/p-2255697852.html"
+        "link": "https://kjc.bsu.edu.cn/xwjb/34a5682f82724454a2d4a8a970bd5a44.htm"
     },
     {
         "title": "DAPJ-KY-044 2022北京冬奥会奥林匹克教育理念与干预研究",
@@ -1315,9 +1315,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2018年北京市社会科学基金资助项目 - 豆丁网 (docin.com)"
+            "https://kjc.bsu.edu.cn/xwjb/34a5682f82724454a2d4a8a970bd5a44.htm"
         ],
-        "link": "https://www.docin.com/p-2255697852.html"
+        "link": "https://kjc.bsu.edu.cn/xwjb/34a5682f82724454a2d4a8a970bd5a44.htm"
     },
     {
         "title": "DAPJ-KY-045 冬奥背景下北京市青少年冰雪运动发展研究",
@@ -1375,9 +1375,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "202107081530288481.xlsx (live.com)"
+            "http://www.moe.gov.cn/s78/A13/tongzhi/201807/t20180725_343687.html"
         ],
-        "link": "https://view.officeapps.live.com/op/view.aspx?src=http://www.bjsk.org.cn/upload/202107/08/202107081530288481.xlsx&wdOrigin=BROWSELINK"
+        "link": "http://www.moe.gov.cn/s78/A13/tongzhi/201807/t20180725_343687.html"
     },
     {
         "title": "DAPJ-KY-047 冬奥会背景下中国大众滑雪技能等级标准与教学评价体系的构建研究",
@@ -2065,9 +2065,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "p-2255697852 (docin.com)"
+            "https://www.bsu.edu.cn/kxyj/kyxm/f67c00686289479a9a09a63e0f957942.htm"
         ],
-        "link": "https://www.docin.com/p-2255697852.html"
+        "link": "https://www.bsu.edu.cn/kxyj/kyxm/f67c00686289479a9a09a63e0f957942.htm"
     },
     {
         "title": "DAPJ-KY-070 基于北京冬奥会申办情境下的体育环境伦理与环境教育研究",
@@ -2234,9 +2234,9 @@ export default [
             "学科分类",
             "地球科学部",
             "项目负责人",
-            "暂无数据",
+            "虞思逸",
             "依托单位",
-            "暂无数据",
+            "上海体育学院",
             "项目年份",
             "2022",
             "项目经费（万元）",
@@ -2244,9 +2244,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2022年国家自然科学基金项目查询、在线查询国家自然基金结果、申请经验分享（1997-2022年） - LetPub编辑"
+            "https://grants.nsfc.gov.cn/egrantindex/funcindex/prjsearch-list"
         ],
-        "link": "http://www.letpub.com.cn/index.php?page=grant#fundlisttable"
+        "link": "https://grants.nsfc.gov.cn/egrantindex/funcindex/prjsearch-list"
     },
     {
         "title": "DAPJ-KY-076 后冬奥时期京张地区生态系统服务传输网络识别与优化",

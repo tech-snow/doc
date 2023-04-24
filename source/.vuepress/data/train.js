@@ -25,9 +25,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "科技部|“科技冬奥” 重点专项2021年度定向指南项目安排公示_网易订阅 (163.com)"
+            "http://www.syty.edu.cn/info/1061/6824.htm"
         ],
-        "link": "https://www.163.com/dy/article/GACPLAF40538GWPL.html"
+        "link": "http://www.syty.edu.cn/info/1061/6824.htm"
     },
     {
         "title": "GSPXL-KY-002 奥运会运动员心理健康保障关键技术",
@@ -55,9 +55,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "科技部|“科技冬奥” 重点专项2021年度定向指南项目安排公示_网易订阅 (163.com)"
+            "北大六院召开国家重点研发计划“科技冬奥”重点专项“奥运会运动员心理健康保障关键技术”项目启动暨实施方案论证会_北医新闻网 (bjmu.edu.cn)"
         ],
-        "link": "https://www.163.com/dy/article/GACPLAF40538GWPL.html"
+        "link": "https://bynews.bjmu.edu.cn/zhxw/2021/83084c714d3145f8bb99ba0378078639.htm"
     },
     {
         "title": "GSPXL-KY-003 冰雪运动装备公共检测关键技术及标准研究",
@@ -115,9 +115,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "科技部|“科技冬奥” 重点专项2021年度定向指南项目安排公示_网易订阅 (163.com)"
+            "http://tyj.hlj.gov.cn/tyj/c112412/202106/c00_30759607.shtml"
         ],
-        "link": "https://www.163.com/dy/article/GACPLAF40538GWPL.html"
+        "link": "http://tyj.hlj.gov.cn/tyj/c112412/202106/c00_30759607.shtml"
     },
     {
         "title": "GSPXL-KY-005 高端冰刀研发",
@@ -235,17 +235,17 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "立项公示 | “科技冬奥”重点专项2020年度指南项目信息建议清单 (360doc.com)"
+            "https://ydjskj.sus.edu.cn/kxyj/jjxm.htm"
         ],
-        "link": "http://www.360doc.com/content/20/0923/16/39979940_937225857.shtml"
+        "link": "https://ydjskj.sus.edu.cn/kxyj/jjxm.htm"
     },
     {
-        "title": "GSPXL-KY-009 冬季项目运动减阻关键技术及平台研究",
+        "title": "GSPXL-KY-009 冬季潜优势及落后项目国际化训练平台关键技术研究与示范",
         "info": [
             "主题",
             "高水平训练",
             "项目名称",
-            "冬季项目运动减阻关键技术及平台研究",
+            "冬季潜优势及落后项目国际化训练平台关键技术研究与示范",
             "项目编号",
             "2020YFF0304600",
             "项目来源",
@@ -257,7 +257,7 @@ export default [
             "项目负责人",
             "汪家道",
             "依托单位",
-            "北京体育大学",
+            "清华大学",
             "项目年份",
             "2020年",
             "项目经费（万元）",
@@ -265,9 +265,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "https://www.most.gov.cn/kjbgz/201811/t20181116_142785.html"
+            "https://www.tsinghua.edu.cn/info/1662/91724.htm"
         ],
-        "link": "https://www.most.gov.cn/kjbgz/201811/t20181116_142785.html"
+        "link": "https://www.tsinghua.edu.cn/info/1662/91724.htm"
     },
     {
         "title": "GSPXL-KY-010 穿戴式冰雪运动装备运动风险和效能评价关键技术平台研究",
@@ -415,9 +415,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "https://www.sciping.com/35357.html"
+            "https://news.ntu.edu.cn/2020/1221/c9a159764/page.htm"
         ],
-        "link": "https://www.sciping.com/35357.html"
+        "link": "https://news.ntu.edu.cn/2020/1221/c9a159764/page.htm"
     },
     {
         "title": "GSPXL-KY-015 多地域气候条件下高效智能造雪机研发及应用示范",
@@ -445,9 +445,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "https://www.sciping.com/35357.html"
+            "http://usstirc.usst.edu.cn/2021/0125/c7029a241746/page.htm"
         ],
-        "link": "https://www.sciping.com/35357.html"
+        "link": "http://usstirc.usst.edu.cn/2021/0125/c7029a241746/page.htm"
     },
     {
         "title": "GSPXL-KY-016 室外大中型压雪车研发及应用示范",
@@ -475,9 +475,9 @@ export default [
             "主要内容",
             "围绕室外大中型压雪车，旨在解决环境温度低、高程落差大、行驶工况复杂等条件下压雪车的高精准、高可靠性、环保等方面的科学问题，开展关键技术攻关，突破高效稳定驱动、作业精准控制、轻量化、可靠性设计等技术瓶颈，研制室外大中型压雪车关键部件与整机，使整体技术达到国际先进水平，以促进我国冰雪运动领域的科技进步，培养相关专业人才，为举办精彩、非凡、卓越的北京冬奥会/冬残奥会和我国冰雪运动的发展提供技术支撑。",
             "链接",
-            "https://www.sciping.com/35357.html"
+            "http://me.ustb.edu.cn/keyandongtai/2022-03-31/1790.html"
         ],
-        "link": "https://www.sciping.com/35357.html"
+        "link": "http://me.ustb.edu.cn/keyandongtai/2022-03-31/1790.html"
     },
     {
         "title": "GSPXL-KY-017 709",
@@ -805,9 +805,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "河北省科技冬奥专项3个项目立项_论证会 (sohu.com)"
+            "https://sport.hebei.gov.cn/zhuantipindao/xiangyuedongao/bingxuehebei/2021/0426/15850.html"
         ],
-        "link": "https://www.sohu.com/a/320248082_505583"
+        "link": "https://sport.hebei.gov.cn/zhuantipindao/xiangyuedongao/bingxuehebei/2021/0426/15850.html"
     },
     {
         "title": "GSPXL-KY-028 备战2022冬奥会河北省优秀运动员竞技表现提升关键",
@@ -835,9 +835,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2019年度河北省科技冬奥专项3个项目立项 切实增强科技支撑_体育_腾讯网 (qq.com)"
+            "http://kyc.hepec.edu.cn/col/1490084625228/2022/03/10/1646882804594.html"
         ],
-        "link": "https://sports.qq.com/a/20190617/000752.htm"
+        "link": "http://kyc.hepec.edu.cn/col/1490084625228/2022/03/10/1646882804594.html"
     },
     {
         "title": "GSPXL-KY-029 2022年北京冬奥会我国雪上重点项目竞技能力提升的关键备战策略",
@@ -955,9 +955,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "<A1BEB6A8B8E5A1BFB8BDBCFE312D34A3BAB4F2D3A1D3C333323935A3A830313239D1A7BFC6CBB3D0F2B5F7D5FBA3A92E786C7378> (sinoss.net)"
+            "http://www.moe.gov.cn/s78/A13/tongzhi/201903/t20190315_373644.html"
         ],
-        "link": "https://www.sinoss.net/uploadfile/2019/0129/01.pdf"
+        "link": "http://www.moe.gov.cn/s78/A13/tongzhi/201903/t20190315_373644.html"
     },
     {
         "title": "GSPXL-KY-033 基于空气动力学分析的跳台滑雪空中飞行姿态研究",
@@ -1105,8 +1105,9 @@ export default [
             "主要内容",
             "以构建“冬季项目优秀运动员专项能力结构模型”为核心，以实现冬季项目科学选材与科学训练的关键技术突破为目标，将形成系统的冬季项目优秀运动员多维度专项能力结构模型和选材标准体系，提供以科学选材、科学训练、科学管理和科学参赛为目标的技术和方法，为中国在北京冬奥会上实现成绩的历史性突破提供科技支撑和保障。",
             "链接",
-            "http://www.most.gov.cn/ztzl/kjda2022/gzjz/201812/t20181229_144444.html"
-        ]
+            "“科技冬奥”重点专项“冬季项目运动员技能优化关键技术研究”项目启动 - 中华人民共和国科学技术部 (most.gov.cn)"
+        ],
+        "link": "https://www.most.gov.cn/ztzl/kjda2022/gzjz/201812/t20181229_144444.html",
     },
     {
         "title": "GSPXL-KY-038 冬残奥运动员运动表现提升的关键技术",
@@ -1134,8 +1135,9 @@ export default [
             "主要内容",
             "项目是第一个纳入国家重点研发计划的残疾人体育科研项目，该项目的实施将在运动员的训练监控、技术动作优化、专项辅助器具、伤病预防和康复等方面形成全方位科技保障系统，预期将在我国冬残奥项目发展、增进残疾人身体康复等方面作出贡献。",
             "链接",
-            "http://www.most.gov.cn/ztzl/kjda2022/gzjz/201812/t20181229_144451.html"
-        ]
+            "“科技冬奥”重点专项“冬残奥运动员运动表现提升的关键技术”项目启动 - 中华人民共和国科学技术部 (most.gov.cn)"
+        ],
+        "link": "https://www.most.gov.cn/ztzl/kjda2022/gzjz/201812/t20181229_144451.html"
     },
     {
         "title": "GSPXL-KY-039 兴奋剂检测新技术研发及方法确立",
@@ -1222,8 +1224,9 @@ export default [
             "主要内容",
             "项目主要针对我国冬季奥运项目、冬残奥项目整体水平比较落后，训练理念、方法与世界先进水平差距较大等一系列问题，通过对冬季奥运项目、冬残奥项目的专项特点研究，分析我国潜优势和落后项目的专项发展特点和瓶颈问题。整合全球冬季运动体育科技资源，引进高层次国际专家团队和高水平训练方法，构建一个综合性训练专家系统和国际化工作平台，提高我国冬奥项目的运动训练科学化水平。",
             "链接",
-            "http://www.most.gov.cn/ztzl/kjda2022/gzjz/201812/t20181229_144446.html"
-        ]
+            "“科技冬奥”重点专项“冬季潜优势及落后项目国际化训练平台关键技术研究与示范”项目启动 - 中华人民共和国科学技术部 (most.gov.cn)"
+        ],
+        "link": "https://www.most.gov.cn/ztzl/kjda2022/gzjz/201812/t20181229_144446.html"
     },
     {
         "title": "GSPXL-KY-042 我国奥运优势项目参赛队伍结构与成绩关系",
@@ -1461,9 +1464,9 @@ export default [
             "主要内容",
             "让运动员在非雪季也能在室内展开滑雪训练，滑台上的滑行速度可达百公里的时速。运动员全身关节处的17个传感器，可精准反映其姿态动作数据，帮助教练评估参考。此外，这套设备的通用型产品还在滑台下加装了运动模拟平台，有高低、倾斜、偏转变化，通过各角度帮助运动员训练。相关设备已用于国家高山滑雪队运动员的日常训练。",
             "链接",
-            "腾讯视频 (qq.com)"
+            "https://www.bit.edu.cn/xww/lgxb21/78dd3c1b72b04211ac79934a6644927b.htm"
         ],
-        "link": "https://v.qq.com/x/page/s3022dgpic0.html"
+        "link": "https://www.bit.edu.cn/xww/lgxb21/78dd3c1b72b04211ac79934a6644927b.htm"
     },
     {
         "title": "GSPXL-KY-050 北美冬奥会冰上项目发展的差异性研究",
@@ -1581,9 +1584,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "关于对“科技冬奥”重点专项2019年度第一批项目申报指南征求意见的通知_手机搜狐网 (sohu.com)"
+            "http://hebfb.hebei.com.cn/system/2022/02/13/100878386.shtml"
         ],
-        "link": "https://m.sohu.com/a/281755981_505583"
+        "link": "http://hebfb.hebei.com.cn/system/2022/02/13/100878386.shtml"
     },
     {
         "title": "GSPXL-KY-054 石墨烯发热服饰在冰雪运动中对个体的热力保障应用",
@@ -1611,9 +1614,9 @@ export default [
             "主要内容",
             "石墨烯发热服饰兼具柔软、透气、耐弯折性能，可以实现在零下40℃超低温环境下的启动，温度在38℃-52℃间调节，50次水洗性能不衰减，而且多个区域发热，能很好地满足人们在超低温环境下的工作需求。",
             "链接",
-            "黑科技：石墨烯发热服饰！新材料装备研发助力冬奥_腾讯新闻 (qq.com)"
+            "http://www.graphene.tv/2021080743533/"
         ],
-        "link": "https://new.qq.com/rain/a/20210715A00OQV00"
+        "link": "http://www.graphene.tv/2021080743533/"
     },
     {
         "title": "GSPXL-KY-055 赛道环境营造及观赛环境保障技术研究",
@@ -1641,9 +1644,9 @@ export default [
             "主要内容",
             "一方面注重应用新型功能材料，包括气凝胶保温隔热材料、柔性石墨烯发热材料、金属氧化物半导体发热材料等；另一方面，充分考虑观赛区的实际场景和观众的观赛行为，对热舒适保障措施的形式进行了有针对性的创新设计。",
             "链接",
-            "冬奥观赛：新技术提升人体体感温度10℃-15℃_【快资讯】 (360kuai.com)"
+            "https://www.tsinghua.edu.cn/info/1182/52043.htm"
         ],
-        "link": "https://www.360kuai.com/pc/99a61bf6515ba7fe2?cota=3&kuai_so=1&tj_url=so_vip&sign=360_57c3bbd1&refer_scene=so_1"
+        "link": "https://www.tsinghua.edu.cn/info/1182/52043.htm"
     },
     {
         "title": "GSPXL-KY-056 室外大中型压雪车测试评价及应用示范",

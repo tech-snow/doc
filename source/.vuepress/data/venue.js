@@ -53,11 +53,11 @@ export default [
             "项目经费（万元）",
             "暂无数据",
             "主要内容",
-            "    研究内容包括看台、转播塔、临时桥梁、LED大屏的抗风性能提升；严寒天气下临时设施信息快速采集、结构安全智能预警技术；污水处理系统稳定运行技术等。该项目提出的考核指标明确要求多个研制产品应满足在最低零下40℃的严寒环境下运行。",
+            "研究内容包括看台、转播塔、临时桥梁、LED大屏的抗风性能提升；严寒天气下临时设施信息快速采集、结构安全智能预警技术；污水处理系统稳定运行技术等。该项目提出的考核指标明确要求多个研制产品应满足在最低零下40℃的严寒环境下运行。",
             "链接",
-            "科技部|“科技冬奥” 重点专项2021年度定向指南项目安排公示_网易订阅 (163.com)"
+            "https://xww.bucea.edu.cn/tgx/f1ab30f507a64cd4ad1711a756d68001.htm"
         ],
-        "link": "https://www.163.com/dy/article/GACPLAF40538GWPL.html"
+        "link": "https://xww.bucea.edu.cn/tgx/f1ab30f507a64cd4ad1711a756d68001.htm"
     },
     {
         "title": "DACGJS-KY-003 京张高铁智能化服务关键技术与示范",
@@ -895,9 +895,9 @@ export default [
             "主要内容",
             "一方面注重应用新型功能材料，包括气凝胶保温隔热材料、柔性石墨烯发热材料、金属氧化物半导体发热材料等；另一方面，充分考虑观赛区的实际场景和观众的观赛行为，对热舒适保障措施的形式进行了有针对性的创新设计。",
             "链接",
-            "冬奥观赛：新技术提升人体体感温度10℃-15℃_【快资讯】 (360kuai.com)"
+            "http://www.arch.tsinghua.edu.cn/info/xw/2035"
         ],
-        "link": "https://www.360kuai.com/pc/99a61bf6515ba7fe2?cota=3&kuai_so=1&tj_url=so_vip&sign=360_57c3bbd1&refer_scene=so_1"
+        "link": "http://www.arch.tsinghua.edu.cn/info/xw/2035"
     },
     {
         "title": "DACGJS-KY-031 智慧交通建设",
@@ -1285,9 +1285,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "相约冬奥 筑梦向未来｜科技赋能冬奥 张家口赛区云顶场馆技术团队进入赛时状态_保障 (sohu.com)"
+            "http://ent.people.com.cn/n1/2021/1119/c1012-32287072.html"
         ],
-        "link": "https://www.sohu.com/a/502788391_752490"
+        "link": "http://ent.people.com.cn/n1/2021/1119/c1012-32287072.html"
     },
     {
         "title": "DACGJS-KY-044 国家跳台滑雪中心指挥照明关键技术研究与应用示范",
@@ -1405,9 +1405,9 @@ export default [
             "主要内容",
             "为首钢滑雪大跳台的长久使用提出一种“解决方案”——利用模块拼装，挑战单板滑雪大跳台（BigAir）与自由式滑雪空中技巧(Aerials)赛道快速切换。",
             "链接",
-            "THAD活动雪如意结构考察技术交流 - 土木在线 (co188.com)"
+            "https://www.tsinghua.edu.cn/info/1182/86192.htm"
         ],
-        "link": "https://bbs.co188.com/thread-10140979-1-1.html"
+        "link": "https://www.tsinghua.edu.cn/info/1182/86192.htm"
     },
     {
         "title": "DADACGJS-KY-048 北京冬奥会态势感知与运行指挥保障系统研发",
@@ -1465,9 +1465,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "https://www.izaiwen.cn/pro/?psnname=&orgname=&prjno=51708284&sy=&ey=&st=&et=&keyword="
+            "https://grants.nsfc.gov.cn/egrantindex/funcindex/prjsearch-list"
         ],
-        "link": "https://www.izaiwen.cn/pro/?psnname=&orgname=&prjno=51708284&sy=&ey=&st=&et=&keyword="
+        "link": "https://grants.nsfc.gov.cn/egrantindex/funcindex/prjsearch-list"
     },
     {
         "title": "DACGJS-KY-050 基于多源数据精化冰雪密度及冰盖质量变化的研究",
@@ -1495,9 +1495,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "https://www.izaiwen.cn/pro/?psnname=&orgname=&prjno=41804014&sy=&ey=&st=&et=&keyword="
+            "https://grants.nsfc.gov.cn/egrantindex/funcindex/prjsearch-list"
         ],
-        "link": "https://www.izaiwen.cn/pro/?psnname=&orgname=&prjno=41804014&sy=&ey=&st=&et=&keyword="
+        "link": "https://grants.nsfc.gov.cn/egrantindex/funcindex/prjsearch-list"
     },
     {
         "title": "DACGJS-KY-051 基于性能模拟与评价的寒地体育场馆气候适应性设计与关键技术研究",
@@ -1555,9 +1555,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "https://www.izaiwen.cn/pro/?psnname=&orgname=&prjno=42001255&sy=&ey=&st=&et=&keyword="
+            "https://grants.nsfc.gov.cn/egrantindex/funcindex/prjsearch-list"
         ],
-        "link": "https://www.izaiwen.cn/pro/?psnname=&orgname=&prjno=42001255&sy=&ey=&st=&et=&keyword="
+        "link": "https://grants.nsfc.gov.cn/egrantindex/funcindex/prjsearch-list"
     },
     {
         "title": "DACGJS-KY-053 滑冰场用跨临界/亚临界CO2压缩循环综合冷热源系统的基础问题研究",
@@ -1585,9 +1585,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2021国家自然科学基金项目查询、在线查询国家自然基金结果（1997-2021年） - LetPub编辑"
+            "https://grants.nsfc.gov.cn/egrantindex/funcindex/prjsearch-list"
         ],
-        "link": "http://www.letpub.com.cn/index.php?page=grant&tabid=subtab_ucenter#fundlisttable"
+        "link": "https://grants.nsfc.gov.cn/egrantindex/funcindex/prjsearch-list"
     },
     {
         "title": "DACGJS-KY-054 2022年北京冬奥会场馆赛后开发与利用研究",
@@ -2185,8 +2185,8 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2022年国家自然科学基金项目查询、在线查询国家自然基金结果、申请经验分享（1997-2022年） - LetPub编辑"
+            "https://grants.nsfc.gov.cn/egrantindex/funcindex/prjsearch-list"
         ],
-        "link": "http://www.letpub.com.cn/index.php?page=grant#fundlisttable"
+        "link": "https://grants.nsfc.gov.cn/egrantindex/funcindex/prjsearch-list"
     }
 ];

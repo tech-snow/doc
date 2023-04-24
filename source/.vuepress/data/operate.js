@@ -25,9 +25,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "3.冬奥会安保关键技术和系统-北京科技大学科学研究与发展部.doc 文档全文免费预览 (book118.com)"
+            "https://kjt.hebei.gov.cn/www/tpxw4/238830/index.html"
         ],
-        "link": "https://max.book118.com/html/2019/0104/8121077056001143.shtm"
+        "link": "https://kjt.hebei.gov.cn/www/tpxw4/238830/index.html"
     },
     {
         "title": "DASSYY-KY-002 冬奥筹办关键技术研究与应用示范",
@@ -894,7 +894,7 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "fz.people.com.cn/skygb/sk/index.php/index/seach?pznum=18BTY069&xmtype=0&xktype=0&xmname=&lxtime=0&xmleader=&zyzw=0&gzdw=&dwtype=0&szdq=0&ssxt=0&cgname=&cgxs=0&cglevel=0&jxdata=0&jxnum=&cbs=&cbdate=0&zz=&hj="
+            "国家社科基金项目数据库 (people.com.cn)"
         ],
         "link": "http://fz.people.com.cn/skygb/sk/index.php/index/seach?pznum=18BTY069&xmtype=0&xktype=0&xmname=&lxtime=0&xmleader=&zyzw=0&gzdw=&dwtype=0&szdq=0&ssxt=0&cgname=&cgxs=0&cglevel=0&jxdata=0&jxnum=&cbs=&cbdate=0&zz=&hj="
     },
