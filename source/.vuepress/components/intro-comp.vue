@@ -1,5 +1,10 @@
 <template>
     <div class="intro">
+        <h1 id="main-title">科技与冰雪运动相互支撑发展数据库</h1>
+        <lottie-animation />
+        <div style="text-align: center;">
+            <a href="/doc/olympics.html" class="nav-link action-button">立即查看</a>
+        </div>
         <div v-for="el in list" class="item" @click="goto(el.link)">
             <h2>{{ el.h2 }}</h2>
             <p>{{ el.p }}</p>
@@ -42,9 +47,25 @@ export default {
 }
 </script>
 <style>
-.intro {
-    margin-top: 60px;
-    border-top: 1px solid #ddd;
+h1 {
+    font-size: 3em;
+    text-align: center;
+    margin: 0;
+}
+.action-button {
+    margin: 10px auto 60px;
+    border-radius: 50px;
+    display: inline-block;
+    font-size: 1.2rem;
+    color: #fff;
+    background-color: rgba(255,51,0,0.8);
+    padding: 0.8rem 1.6rem;
+    transition: background-color 0.1s ease;
+    box-sizing: border-box;
+    border-bottom: 1px solid rgba(230,46,0,0.8);
+}
+.action-button:hover {
+    background-color: rgba(255,71,26,0.8);
 }
 .intro h2 {
     font-size: 1.4rem;

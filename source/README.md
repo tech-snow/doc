@@ -1,11 +1,11 @@
 ---
 home: true
-heroImage: /skiming.svg
+heroImage: null
 heroAlt: skiming
-heroText: 科技与冰雪运动相互支撑发展数据库
+heroText: null
 tagline: null
-actionText: 立即查看
-actionLink: /olympics
+actionText: null
+actionLink: null
 navbar: false
 footer: null
 ---

@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Chris-Kin/doc#readme",
   "devDependencies": {
     "vuepress": "^1.8.0"
+  },
+  "dependencies": {
+    "lottie-web": "^5.11.0"
   }
 }
