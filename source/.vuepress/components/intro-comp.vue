@@ -5,6 +5,8 @@
         <div style="text-align: center;">
             <a href="/doc/olympics.html" class="nav-link action-button">立即查看</a>
         </div>
+        <h2 class="sub-title">科技冬奥项目“冰雪运动推广普及关键产品研发及示范”课题五成果</h2>
+
         <div v-for="el in list" class="item" @click="goto(el.link)">
             <h2>{{ el.h2 }}</h2>
             <p>{{ el.p }}</p>
@@ -51,6 +53,9 @@ h1 {
     font-size: 3em;
     text-align: center;
     margin: 0;
+}
+.sub-title {
+    text-align: center;
 }
 .action-button {
     margin: 10px auto 60px;
