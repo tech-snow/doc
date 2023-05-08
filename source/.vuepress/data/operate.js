@@ -986,7 +986,7 @@ export default [
             "链接",
             "2018年北京市社会科学基金资助项目 - 豆丁网 (docin.com)"
         ],
-        "link": "https://www.docin.com/p-2255697852.html"
+        "link": "/doc/0508.pdf"
     },
     {
         "title": "DASSYY-KY-034 《奥林匹克2020议程》、北京冬奥会与北京城市管理的耦合",

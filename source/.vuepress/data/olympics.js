@@ -1347,7 +1347,7 @@ export default [
             "链接",
             "2018年北京市社会科学基金资助项目 - 豆丁网 (docin.com)"
         ],
-        "link": "https://www.docin.com/p-2255697852.html"
+        "link": "/doc/0508.pdf"
     },
     {
         "title": "DAPJ-KY-046 2022年北京冬奥会对中国国家软实力的影响及提升路径研究",
@@ -2037,7 +2037,7 @@ export default [
             "链接",
             "p-2255697852(docin.com)"
         ],
-        "link": "https://www.docin.com/p-2255697852.html"
+        "link": "/doc/0508.pdf"
     },
     {
         "title": "DAPJ-KY-069 2022年北京冬奥会奥林匹克教育理念与干预研究",
