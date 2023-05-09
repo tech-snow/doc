@@ -1855,9 +1855,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2017年北京市社会科学基金项目评审结果公示（2）-千龙网·中国首都网 (qianlong.com)"
+            "1503281234774.xls (live.com)"
         ],
-        "link": "http://beijing.qianlong.com/2017/0821/1959623_2.shtml"
+        "link": "https://view.officeapps.live.com/op/view.aspx?src=https://upload.qianlong.com/2017/0821/1503281234774.xls&wdOrigin=BROWSELINK"
     },
     {
         "title": "DAPJ-KY-063 冰雪运动进校园研究",
@@ -2010,34 +2010,34 @@ export default [
         "link": "http://fz.people.com.cn/skygb/sk/index.php/index/seach?pznum=15BTY022&xmtype=0&xktype=0&xmname=&lxtime=0&xmleader=&zyzw=0&gzdw=&dwtype=0&szdq=0&ssxt=0&cgname=&cgxs=0&cglevel=0&jxdata=0&jxnum=&cbs=&cbdate=0&zz=&hj="
     },
     {
-        "title": "DAPJ-KY-068 2022年冬奥会借鉴往届冬奥会成功经验研究",
+        "title": "DAPJ-KY-068 北京冬奥会媒介传播策略研究",
         "info": [
             "主题",
             "冬奥普及",
             "项目名称",
-            "2022年冬奥会借鉴往届冬奥会成功经验研究",
+            "北京冬奥会媒介传播策略研究",
             "项目编号",
             "暂无数据",
             "项目来源",
             "北京社科",
             "项目类型",
-            "社会科学基金",
+            "一般项目",
             "学科分类",
             "艺术·体育学",
             "项目负责人",
-            "曹淼孙",
+            "刘兰",
             "依托单位",
-            "首都体育学院",
+            "北京体育赛事管理与营销研究基地",
             "项目年份",
-            "2018年",
+            "2017年",
             "项目经费（万元）",
             "暂无数据",
             "主要内容",
             "暂无数据",
             "链接",
-            "p-2255697852(docin.com)"
+            "1503373174354.xls (live.com)"
         ],
-        "link": "/doc/0508.pdf"
+        "link": "https://view.officeapps.live.com/op/view.aspx?src=https://upload.qianlong.com/2017/0822/1503373174354.xls&wdOrigin=BROWSELINK"
     },
     {
         "title": "DAPJ-KY-069 2022年北京冬奥会奥林匹克教育理念与干预研究",

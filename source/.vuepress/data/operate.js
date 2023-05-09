@@ -1014,9 +1014,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2017年北京市社会科学基金项目评审结果公示-千龙网·中国首都网 (qianlong.com)"
+            "1503281234774.xls (live.com)"
         ],
-        "link": "http://beijing.qianlong.com/2017/0821/1959623.shtml?from=groupmessage"
+        "link": "https://view.officeapps.live.com/op/view.aspx?src=https://upload.qianlong.com/2017/0821/1503281234774.xls&wdOrigin=BROWSELINK"
     },
     {
         "title": "DASSYY-KY-035 北京冬奥会的法律保障机制研究",
@@ -1134,9 +1134,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2017年北京市社会科学基金项目评审结果公示-千龙网·中国首都网 (qianlong.com)"
+            "1503281234774.xls (live.com)"
         ],
-        "link": "http://beijing.qianlong.com/2017/0821/1959623.shtml?from=groupmessage"
+        "link": "https://view.officeapps.live.com/op/view.aspx?src=https://upload.qianlong.com/2017/0821/1503281234774.xls&wdOrigin=BROWSELINK"
     },
     {
         "title": "DASSYY-KY-039 北京延庆区景观评价与环境整体设计问题研究",
@@ -1164,9 +1164,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2017年北京市社会科学基金项目评审结果公示-千龙网·中国首都网 (qianlong.com)"
+            "1503281234774.xls (live.com)"
         ],
-        "link": "http://beijing.qianlong.com/2017/0821/1959623.shtml?from=groupmessage"
+        "link": "https://view.officeapps.live.com/op/view.aspx?src=https://upload.qianlong.com/2017/0821/1503281234774.xls&wdOrigin=BROWSELINK"
     },
     {
         "title": "DASSYY-KY-040 北京冬奥会的传播战略研究",
@@ -1194,9 +1194,9 @@ export default [
             "主要内容",
             "暂无数据",
             "链接",
-            "2017年北京市社会科学基金项目评审结果公示-千龙网·中国首都网 (qianlong.com)"
+            "1503281234774.xls (live.com)"
         ],
-        "link": "http://beijing.qianlong.com/2017/0821/1959623.shtml"
+        "link": "https://view.officeapps.live.com/op/view.aspx?src=https://upload.qianlong.com/2017/0821/1503281234774.xls&wdOrigin=BROWSELINK"
     },
     {
         "title": "DASSYY-KY-041 北京2022年冬奥会筹办的基本原则、重点领域与关键问题研究",
